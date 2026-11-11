@@ -1,14 +1,14 @@
 # ☕ Java Minimalist API + Docker & CI/CD Pipeline
 
+<div align="right">
+  <a href="README.EN.md">🇺🇸 Read in English</a>
+</div>
+
+<br>
+
 Este é um projeto prático desenvolvido para demonstrar e consolidar conceitos fundamentais de **DevOps, Containerização (Docker) e Integração/Entrega Contínua (CI/CD)**. 
 
 A aplicação consiste em um servidor web minimalista escrito em Java nativo que, ao receber um commit, aciona uma esteira automatizada no GitHub Actions para compilar, gerar uma imagem Docker e publicá-la automaticamente no Docker Hub.
-
-<hr />
-
-🇺🇸 [Read in English](README.md)
-
-<hr />
 
 ## Tecnologias Utilizadas
 * **Java 17 (Nativo):** Para a criação do servidor HTTP sem dependências externas.
@@ -54,8 +54,6 @@ Graças ao Docker Hub, você não precisa clonar este código para rodar a aplic
 
 ---
 
-<div align="center">
-
 ### 💻 Contate-me / Let's Connect
 
 <p align="center">
@@ -65,12 +63,17 @@ Graças ao Docker Hub, você não precisa clonar este código para rodar a aplic
   <a href="mailto:ibruder83@gmail.com">
     <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/JustBruder" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@JustBruder" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-C71585?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </p>
-</div>
 
 <div align="center">
   <sub>Desenvolvido por JustBruder ✨</sub>
 </div>
 <div align="center">
-  <sub>🌷 Security by Design </sub>
+  <sub>🌷🐱 Código limpo e MEOW </sub>
 </div>
