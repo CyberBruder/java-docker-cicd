@@ -4,6 +4,12 @@ Este é um projeto prático desenvolvido para demonstrar e consolidar conceitos 
 
 A aplicação consiste em um servidor web minimalista escrito em Java nativo que, ao receber um commit, aciona uma esteira automatizada no GitHub Actions para compilar, gerar uma imagem Docker e publicá-la automaticamente no Docker Hub.
 
+<hr />
+
+🇺🇸 [Read in English](README.md)
+
+<hr />
+
 ## Tecnologias Utilizadas
 * **Java 17 (Nativo):** Para a criação do servidor HTTP sem dependências externas.
 * **Docker:** Para isolar e empacotar a aplicação garantindo portabilidade.
