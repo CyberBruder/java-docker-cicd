@@ -6,7 +6,7 @@ The application consists of a minimalist web server written in native Java that,
 
 <hr />
 
-🇧🇷 [Leia em Português](README.pt.md)
+🇧🇷 [Leia em Português](README.md)
 
 <hr />
 
