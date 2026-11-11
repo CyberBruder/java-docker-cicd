@@ -63,15 +63,21 @@ Graças ao Docker Hub, você não precisa clonar este código para rodar a aplic
   <a href="mailto:ibruder83@gmail.com">
     <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/JustBruder" target="_blank">
+  <a href="https://www.instagram.com/Cyber.Bruder" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@JustBruder" target="_blank">
+  <a href="https://www.tiktok.com/@Cyber.Bruder" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-C71585?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
+  <sub>Desenvolvido por Bruder ✨</sub>
+</div>
+<div align="center">
+  <sub>🌷🐱 Código limpo e MEOW </sub>
+</div>
+enter">
   <sub>Desenvolvido por JustBruder ✨</sub>
 </div>
 <div align="center">
